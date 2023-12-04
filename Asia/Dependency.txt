@@ -1,0 +1,8 @@
+{"VisitAsia": [],
+    "Smoking": [],
+    "Tuberculosis": ["VisitAsia"],
+    "LungCancer": ["Smoking"],
+    "Tb_or_Ca": ["Tuberculosis", "LungCancer"],
+    "XRay": ["Tb_or_Ca"],
+    "Bronchitis": ["Smoking"],
+    "Dyspnea": ["Tb_or_Ca", "Bronchitis"]}

@@ -1,0 +1,7 @@
+{"Animal": [],
+    "Environment": ["Animal"],
+    "HasShell": ["Animal"],
+    "BearsYoungAs": ["Animal"],
+    "Class": ["Animal"],
+    "WarmBlooded": ["Class"],
+    "BodyCovering": ["Class"]}
